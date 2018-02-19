@@ -4,7 +4,7 @@
     <PackageTargetFallback>portable-net45+win8+wp8+wpa81</PackageTargetFallback>
     <OutputType>Exe</OutputType>
     <AssemblyName>Example</AssemblyName>
-    <OutputPath>..\..\bin\net471\</OutputPath>
+    <OutputPath>..\..\bin\</OutputPath>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
